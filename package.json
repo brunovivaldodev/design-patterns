@@ -4,7 +4,7 @@
   "main": "index.js",
   "license": "MIT",
   "scripts": {
-    "run": "tsnd"
+    "run": "ts-node ./src/sctrutural/bridge/main.ts"
   },
   "dependencies": {
     "@types/validator": "^13.6.3",
